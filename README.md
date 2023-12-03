@@ -9,6 +9,7 @@ Este repositorio contiene scripts mejorados para tareas comunes en la línea de 
    ```bash
    git clone https://github.com/gh0stfvvce/pro-bins.git
    cd pro-bins
+   chmod +x pro-install.sh
 
 2. Ejecuta el script de instalación:
    ```bash
