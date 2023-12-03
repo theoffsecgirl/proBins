@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Lista de scripts a instalar
-SCRIPTS=("pro-du.sh" "pro-grep.sh" "pro-ls.sh" "pro-netstat.sh" "pro-ps.sh" "pro-pwd.sh" "pro-top.sh")
+SCRIPTS=("pro-du" "pro-grep" "pro-ls" "pro-netstat" "pro-ps" "pro-pwd" "pro-top")
 
 # Directorio de destino
 DESTINATION="/usr/local/bin"
