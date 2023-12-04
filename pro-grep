@@ -1,3 +1,11 @@
 #!/bin/bash
-grep -rn --color=auto #"patron" .
+
+# Verifica que se proporcione al menos un argumento
+if [ $# -eq 0 ]; then
+  echo "Uso: $0 <patron>"
+  exit 1
+fi
+
+# Utiliza "$@" para pasar todos los argumentos proporcionados al script a grep
+grep -rn --color=auto "$@" .
 #Un script que realiza búsquedas en archivos de manera más avanzada, con opciones como la coincidencia de patrones y la visualización de líneas circundantes.
