@@ -1,4 +1,4 @@
-# Pro-bins
+# proBins
 
 Este repositorio contiene scripts mejorados para tareas comunes en la línea de comandos en sistemas Unix. Los scripts proporcionan funcionalidades adicionales y mejoras en la presentación de información.
 
