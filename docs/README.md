@@ -8,7 +8,7 @@ Este repositorio contiene scripts mejorados para tareas comunes en la línea de 
 
    ```bash
    git clone https://github.com/gh0stfvvce/proBins.git
-   cd proBins/scr/binariesInstall
+   cd proBins/scr/
    chmod +x install.sh
 
 2. Ejecuta el script de instalación:
