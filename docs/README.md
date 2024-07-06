@@ -7,7 +7,7 @@ Este repositorio contiene scripts mejorados para tareas comunes en la línea de 
 1. Clona el repositorio, accede a la carpeta de instalación y concede permisos de ejecución:
 
    ```bash
-   git clone https://github.com/gh0stfvvce/proBins.git
+   git clone https://github.com/g3nsyys/proBins.git
    cd proBins/scr/
    chmod +x install.sh
 
